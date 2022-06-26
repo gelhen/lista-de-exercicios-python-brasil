@@ -15,4 +15,4 @@ def escreva_um_numero():
     """Escreva aqui em baixo a sua solução"""
     numero = int(input('Informe um número:'))
 
-    print(f'O número informado foi {numero}')
+    print(f'O número  informado foi {numero}')
